@@ -1,6 +1,6 @@
 
 
-Hi, I'm Ray Yeh👋
+Hi, I'm Ray👋
 
 Full Stack Developer
 
