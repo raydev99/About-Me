@@ -73,8 +73,6 @@ A command-line operating system simulator for educational use
 
 
 
-## 📫 Let's Connect!
-- Email: rayyehfall2023@gmail.com
 
 
 ---
